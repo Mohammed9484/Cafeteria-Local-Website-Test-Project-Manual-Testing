@@ -26,7 +26,7 @@ This manual testing project aims to ensure these key features work smoothly and 
 
 The **Test Analysis** section outlines the key objectives, scope, and test strategies used for the project. It gives a high-level understanding of how testing is approached, including details on the tools used and resources involved.
 
-- **Document:** [Test Analysis Document.docx](./Test Analysis Document.docx)
+- **Document:** [Test Analysis Document.docx](./Test%20Analysis%20Document.docx)
 
 ---
 
@@ -34,7 +34,7 @@ The **Test Analysis** section outlines the key objectives, scope, and test strat
 
 The **Test Cases** section includes detailed test scenarios designed to verify the functionality of the core features of the Cafeteria Application, such as registration, login, order placement, and order history. Each test case covers both positive and negative test scenarios.
 
-- **Document:** [Test Case.xlsx](./Test Case.xlsx)
+- **Document:** [Test Case.xlsx](./Test%20Case.xlsx)
 
 ---
 
@@ -50,7 +50,7 @@ The **Bug Reports** section contains detailed bug reports from the manual testin
 
 Screenshots have been captured to support bug reports and provide visual evidence of issues or UI problems encountered during testing. These images help identify bugs and unexpected behavior.
 
-- **Folder:** [Bug Screenshots/](./Bug Screenshots/)
+- **Folder:** [Bug Screenshots/](./Bug%20Screenshots/)
 
 ---
 
