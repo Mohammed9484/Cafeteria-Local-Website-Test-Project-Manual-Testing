@@ -8,8 +8,6 @@ Welcome to the Cafeteria Application manual testing repository! This repository 
 - [📝 Test Cases](#test-cases)
 - [🐞 Bug Reports](#bug-reports)
 - [📸 Screenshots](#screenshots)
-- [🤝 How to Contribute](#how-to-contribute)
-
 ---
 
 ## 🌟 **Project Overview**
