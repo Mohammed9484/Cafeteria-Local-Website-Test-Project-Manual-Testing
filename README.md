@@ -3,7 +3,7 @@
 Welcome to the Cafeteria Application manual testing repository! This repository contains the test cases, analysis, and bug reports for the Cafeteria Application. We’re verifying core features like user registration, login, order placement, and viewing order history.
 
 ## 📋 **Table of Contents**
-- [🌟 Project Overview](#Project Overview)
+- [**Project Overview**](#project-overview) 
 - [📊 Test Analysis](#test-analysis)
 - [📝 Test Cases](#test-cases)
 - [🐞 Bug Reports](#bug-reports)
