@@ -8,6 +8,7 @@ Welcome to the Cafeteria Application manual testing repository! This repository 
 - [📝 Test Cases](#test-cases)
 - [🐞 Bug Reports](#bug-reports)
 - [📸 Screenshots](#screenshots)
+
 ---
 
 ## 🌟 **Project Overview**
@@ -25,7 +26,7 @@ This manual testing project aims to ensure these key features work smoothly and 
 
 The **Test Analysis** section outlines the key objectives, scope, and test strategies used for the project. It gives a high-level understanding of how testing is approached, including details on the tools used and resources involved.
 
-- **Document:** [Test Analysis Document.docx](./Test Analysis Document.docx) 
+- **Document:** [Test Analysis Document.docx](./Test Analysis Document.docx)
 
 ---
 
