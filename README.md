@@ -42,7 +42,7 @@ The **Test Cases** section includes detailed test scenarios designed to verify t
 
 The **Bug Reports** section contains detailed bug reports from the manual testing phase. Each report includes steps to reproduce the issue, the expected and actual results, and relevant screenshots for clarity.
 
-- **Document:** [Bug Report.xlsx](./Bug Report.xlsx)
+- **Document:** [Bug Report.xlsx](./Bug%20Report.xlsx)
 
 ---
 
